@@ -11,8 +11,6 @@ BilibiliUtilities.Utils [![NuGet version (BilibiliUtilities.Utils)](https://img.
 
 使用的示例代码在BilibiliUtilities.Test中,并且写了注释
 
-`更详细的说明请阅读源码`
-
 ```
 BilibiliUtilities.Live为直播间代码
 BilibiliUtilities.Test为使用测试代码
@@ -24,14 +22,6 @@ BilibiliUtilities.Utils为其他模块提供代码
 dotnet add package BilibiliUtilities.Live --version 0.0.1
 dotnet add package BilibiliUtilities.Utils --version 0.0.1
 ```
-
-如果有BUG可以在issue中提出
-
-如果你想支持一下,可以点击右上角的star
-
-Bilibili UID:27609142
-
-代码缓慢更新中,非常慢
 
 ___
 `EndianBitConverter` 来自 https://github.com/davidrea-MS/BitConverter
